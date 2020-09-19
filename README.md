@@ -5,6 +5,7 @@
 import this
 
 EN
+--
 * Beautiful is better than ugly.
 * Explicit is better than implicit.
 * Simple is better than complex.
@@ -28,6 +29,7 @@ EN
 ---
 
 TR
+--
 * Güzel, çirkin olmaktan iyidir.
 * Açık, örtük olmaktan daha iyidir.
 * Basit, karmaşıktan daha iyidir.
